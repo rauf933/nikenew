@@ -26,6 +26,10 @@ body {
     align-items: center;
 }
 
+.menu {
+    display: flex;
+}
+
 
 .header__info {
     display: flex;
